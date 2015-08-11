@@ -20,3 +20,9 @@ Then run the application with the following command:
 ```
 node bin/www
 ```
+
+## Usage
+Send a mail by using the HTTP POST request:
+```
+http://localhost:3001/sendmail
+```
