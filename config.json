@@ -1,0 +1,8 @@
+{
+    "mailConfig": {
+        "smtpServer": "smtp.com",
+        "from": "from@mail.com",
+        "to": "to@mail.com",
+        "subject": "Simple SendMail application"
+    }
+}
